@@ -40,7 +40,7 @@ const Projects = () => {
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
                 <li className='mb-1'>Created an app with its Frontend in Python-kivy, Backend in Python, and Database in SQLite.</li>
                 <li>Solved the problem of people not receiving help at the right moment.</li>
-                <li>Functionality: When a person in need of any type of help says "HELP" 3 or 4 times in a row, the app recognizes it and sends messages to the person's relative stating that this person needs help at a specific location.</li>
+                <li>Functionality: When a person in need of any type of help says HELP 3 or 4 times in a row, the app recognizes it and sends messages to the persons relative stating that this person needs help at a specific location.</li>
                 <li>Presented the app at CUSEC 2024 (Canadian University Software Engineering Conference 2024.)</li><li>Worked 8 months full-time and 8 months part-time at IBM.</li>
                 <li>Evaluated by RBC judges.</li>
                 <li>Received Recongnition as being one of the top 5 best projects submitted to the conference.</li>
@@ -80,7 +80,7 @@ const Projects = () => {
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
                 <li className='mb-1'>A website made with Python-Flask integrated with a Face Recognition Software written in Python connected to MySql Database</li>
                 <li>Worked on a wide-variety of software developemnt tasks.</li>
-                <li>Logic: When a person becomes COVID positive, Doctors can log into this website and enter the person's unique identification number and turn the person's status to covid Positive. The database of this website is connected to a Face-recognition software written in python. The database has a relation with the person's face encodings, name, unique identification number, and the current covid status. Now, the person's covid states is changed to positive. The camera uses this covid classification software that is connected to the database. So, now when a person enters a shop, their face encodings would be scanned and searched for in the database. Once the face encodings are found, the software will check if the person's covid status is positive or negative. If positive, the shopkeeper would notice a red box around the face of the person making the shopkeeper know that the person is covid positive.</li>
+                <li>Logic: When a person becomes COVID positive, Doctors can log into this website and enter the persons unique identification number and turn the persons status to covid Positive. The database of this website is connected to a Face-recognition software written in python. The database has a relation with the persons face encodings, name, unique identification number, and the current covid status. Now, the persons covid states is changed to positive. The camera uses this covid classification software that is connected to the database. So, now when a person enters a shop, their face encodings would be scanned and searched for in the database. Once the face encodings are found, the software will check if the persons covid status is positive or negative. If positive, the shopkeeper would notice a red box around the face of the person making the shopkeeper know that the person is covid positive.</li>
                 
               </ul>
               </p>
@@ -95,7 +95,7 @@ const Projects = () => {
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
                 <li className='mb-1'>A website made with Python-Flask integrated with a Face Recognition Software written in Python connected to MySql Database</li>
                 <li>Worked on a wide-variety of software developemnt tasks.</li>
-                <li>Logic: When a person becomes COVID positive, Doctors can log into this website and enter the person's unique identification number and turn the person's status to covid Positive. The database of this website is connected to a Face-recognition software written in python. The database has a relation with the person's face encodings, name, unique identification number, and the current covid status. Now, the person's covid states is changed to positive. The camera uses this covid classification software that is connected to the database. So, now when a person enters a shop, their face encodings would be scanned and searched for in the database. Once the face encodings are found, the software will check if the person's covid status is positive or negative. If positive, the shopkeeper would notice a red box around the face of the person making the shopkeeper know that the person is covid positive.</li>
+                <li>Logic: When a person becomes COVID positive, Doctors can log into this website and enter the persons unique identification number and turn the persons status to covid Positive. The database of this website is connected to a Face-recognition software written in python. The database has a relation with the persons face encodings, name, unique identification number, and the current covid status. Now, the persons covid states is changed to positive. The camera uses this covid classification software that is connected to the database. So, now when a person enters a shop, their face encodings would be scanned and searched for in the database. Once the face encodings are found, the software will check if the persons covid status is positive or negative. If positive, the shopkeeper would notice a red box around the face of the person making the shopkeeper know that the person is covid positive.</li>
                 
               </ul>
               </p>
@@ -123,7 +123,7 @@ const Projects = () => {
               <p className="text-lg font-medium text-gray-900 border-b">Technologies: OpenCV, dlib, Flask, python mysql connectivity and deep learning</p>
               <p className="mt-4 text-sm text-gray-500">
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
-                <li className='mb-1'>Made a face detection camera that checks if the face encodings scanned are a part of the MySql database. If the face encodings of the person are a part of the MySql database,then the person is an employee of the company and thus would be allowed to go inside the building. However, if the person's face encodings would not be found in the MySql database, then the person's face would be highlighted with a red box and a beep sound will ring.</li>
+                <li className='mb-1'>Made a face detection camera that checks if the face encodings scanned are a part of the MySql database. If the face encodings of the person are a part of the MySql database,then the person is an employee of the company and thus would be allowed to go inside the building. However, if the persons face encodings would not be found in the MySql database, then the persons face would be highlighted with a red box and a beep sound will ring.</li>
                 
                 
               </ul>
@@ -174,7 +174,7 @@ const Projects = () => {
               <p className="mt-4 text-sm text-gray-500">
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
                 <li className='mb-1'>Tried to train a Uniform Detection Machine Learning model that classifies students based on whether they are in proper school uniform or not.</li>
-                <li>Faced the challenge of gathering a big dataset. I clicked some photos of me to train the model. However, the dataset turned out to be extremely less. I tried augmentating the images to increase the dataset. But it didn't prove to be a much larger dataset.</li>
+                <li>Faced the challenge of gathering a big dataset. I clicked some photos of me to train the model. However, the dataset turned out to be extremely less. I tried augmentating the images to increase the dataset. But it did not prove to be a much larger dataset.</li>
                 
               
 
