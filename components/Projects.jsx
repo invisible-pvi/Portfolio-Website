@@ -93,9 +93,9 @@ const Projects = () => {
               <p className="text-lg font-medium text-gray-900 border-b">Technologies: C Programming Language, Embedded System Design, Robotics </p>
               <p className="mt-4 text-sm text-gray-500">
               <ul className="mt-2 text-sm text-gray-600 list-disc list-inside">
-                <li className='mb-1'>A website made with Python-Flask integrated with a Face Recognition Software written in Python connected to MySql Database</li>
-                <li>Worked on a wide-variety of software developemnt tasks.</li>
-                <li>Logic: When a person becomes COVID positive, Doctors can log into this website and enter the persons unique identification number and turn the persons status to covid Positive. The database of this website is connected to a Face-recognition software written in python. The database has a relation with the persons face encodings, name, unique identification number, and the current covid status. Now, the persons covid states is changed to positive. The camera uses this covid classification software that is connected to the database. So, now when a person enters a shop, their face encodings would be scanned and searched for in the database. Once the face encodings are found, the software will check if the persons covid status is positive or negative. If positive, the shopkeeper would notice a red box around the face of the person making the shopkeeper know that the person is covid positive.</li>
+                <li className='mb-1'>Worked in a team of 4 to build a rover controlled by a transmitter that detects magnetic anomalies using a hall effect sensor.</li>
+                <li>Won 2nd place in the Harvest Robotics Competition organized by the UNB. </li>
+                <li> Developed embedded system in C and C++ programming languages that controlled the transmitting and receiving actions of the embedded system.</li>
                 
               </ul>
               </p>
